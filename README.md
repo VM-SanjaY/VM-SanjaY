@@ -5,8 +5,6 @@
 I recently got into Python development after being a data analyst for 1.6 years and a financial analyst for 2.9 years. I am a learner and open to ideas and criticism.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vm-sanjay&label=Profile%20views&color=0e75b6&style=flat" alt="vm-sanjay" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vm-sanjay" alt="vm-sanjay" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sanjay-v-m-7429a11b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanjay v.m" height="30" width="40" /></a>
